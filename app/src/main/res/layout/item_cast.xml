@@ -7,7 +7,7 @@
 
         <variable
             name="cast"
-            type="com.android.myapplication.popularmovies.api.model.Cast" />
+            type="com.android.challenge.popularmovies.api.model.Cast" />
     </data>
 
     <androidx.cardview.widget.CardView

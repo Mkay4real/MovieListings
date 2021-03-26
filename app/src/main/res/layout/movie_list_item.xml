@@ -6,10 +6,10 @@
     <data>
         <variable
             name="movie"
-            type="com.android.myapplication.popularmovies.api.model.Movie" />
+            type="com.android.challenge.popularmovies.api.model.Movie" />
         <variable
             name="viewHolder"
-            type="com.android.myapplication.movies.ui.list.MoviesRecyclerAdapter.MovieViewHolder" />
+            type="com.android.challenge.movies.ui.list.MoviesRecyclerAdapter.MovieViewHolder" />
     </data>
 
     <LinearLayout

@@ -6,7 +6,7 @@
     <data>
         <variable
             name="viewModel"
-            type="com.android.myapplication.movies.ui.list.MovieListViewModel" />
+            type="com.android.challenge.movies.ui.list.MovieListViewModel" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout

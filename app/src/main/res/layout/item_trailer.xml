@@ -5,10 +5,10 @@
     <data>
         <variable
             name="video"
-            type="com.android.myapplication.popularmovies.api.model.Video" />
+            type="com.android.challenge.popularmovies.api.model.Video" />
         <variable
             name="viewHolder"
-            type="com.android.myapplication.movies.ui.detail.fragments.TrailerAdapter.VideoViewHolder" />
+            type="com.android.challenge.movies.ui.detail.fragments.TrailerAdapter.VideoViewHolder" />
     </data>
 <FrameLayout
 

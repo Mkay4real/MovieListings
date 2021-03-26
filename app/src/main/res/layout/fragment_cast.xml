@@ -6,7 +6,7 @@
         <import type="android.view.View" />
         <variable
             name="viewModel"
-            type="com.android.myapplication.movies.ui.detail.fragments.DetailFragmentViewModel" />
+            type="com.android.challenge.movies.ui.detail.fragments.DetailFragmentViewModel" />
     </data>
 
     <FrameLayout
