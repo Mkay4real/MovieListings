@@ -1,4 +1,4 @@
-package com.android.myapplication.movies
+package com.android.challenge.movies
 
 import org.junit.Test
 
