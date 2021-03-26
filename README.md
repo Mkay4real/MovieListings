@@ -1,7 +1,7 @@
-# Movies
+# MovieListings
 
 ## Project Overview
-This app allows users to search movies and view their overview, cast, reviews and trailers. The movies can also be filtered to show users
+This app displays a list of movies and their overview, cast, reviews and trailers. The movie listings can also be filtered to show users
 top rated, upcoming and popular movies.
 
 This app uses the API from [themoviedb.org](https://www.themoviedb.org/)
@@ -34,6 +34,9 @@ Add `PopularMoviesApp_ApiKey = "YOUR-API-KEY"`.
 ## Features
 
 *   **Offline support:** the App caches any visited list (categories and search) into the room database.
+*   Unit tests
+*   Clear and Clean Code
+*   100% Kotlin
 *   Discover the most popular, most rated & upcoming movies
 *   Search for movies by title
 *   User can view and play trailers on youtube 
@@ -67,7 +70,6 @@ Add `PopularMoviesApp_ApiKey = "YOUR-API-KEY"`.
 ## External Resources
 - [stackoverflow](https://stackoverflow.com/questions/37741872/how-to-make-custom-dotted-progress-bar-in-android) - for custom dotted progress bar
 - [github/android](https://github.com/android/architecture-components-samples) - Proper use of Architecture Components
-- [CodingWithMitch/courses](https://codingwithmitch.com/courses/) 
 
 **Popular Movies uses the TMDb API but is not endorsed or certified by TMDb.**
 
