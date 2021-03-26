@@ -1,8 +1,8 @@
 <resources>
-    <string name="app_name">Movies</string>
+    <string name="app_name">Movie Listing</string>
     <string name="menu_clear">Clear</string>
     <string name="menu_search">Search</string>
-    <string name="query_hint">The Lord Of The Rings</string>
+    <string name="query_hint">God of War</string>
 
     <string name="vote_count">%1$d Votes</string>
 
